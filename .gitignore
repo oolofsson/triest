@@ -1,0 +1,14 @@
+/target
+/output
+/classes
+/checkouts
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+
+.DS_Store
+*.png
+plot.txt
